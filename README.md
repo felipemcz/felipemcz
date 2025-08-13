@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Rodrigues
+# 🖥️ Felipe Rodrigues
 
 **`Desenvolvedor Front-end`**
 
